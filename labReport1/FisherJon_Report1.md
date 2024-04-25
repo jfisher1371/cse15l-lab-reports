@@ -8,11 +8,12 @@ For this week's lab, we focues on learning github basics, as well as the Unix fi
 
 ## 1. `cd` command
 The `cd` command is used to change the current working directory in the unix file system.
--   ### No argument example and `cd ~`:
-    -   Path before command: `C:\Users\jonfi\documents`
-    -   `cd ~` will change the current directory to the users home directory. 
-    -   using `cd ` with no argument will not do anything.
-    - image:![Alternative Text](images/cd1.png)
+-   ### No argument example and `cd`:
+    -   Path before command: `C:\Users\jonfi`
+    -   `cd` with no argument will change the current directory to the users home directory. 
+    -   in powershell, using `cd ` with no argument will not do anything.
+    -   this command does NOT result in an error.
+    - image:![Alternative Text](images/cd5.png)
 
 -   ### Directory as an argument:
     -   Path before command: `C:\Users\jonfi`
@@ -46,6 +47,10 @@ The `cd` command is used to change the current working directory in the unix fil
     -   `ls nonexistent` will cause an error since the specified directory does not exist.
     -   image: ![Alternative Text](images/ls3.png)
 
+-   ### file as argument:
+    -   Path before command: C:\users\jonfi\desktop\ucsd\cse15l\lab3
+    -   `ls hello.txt` will show the file information and the length of the file.
+    -   image: ![Alternative Text](images/ls4.png)
 
 ---
 ### 3. `cat` command
