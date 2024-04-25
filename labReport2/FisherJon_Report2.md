@@ -7,9 +7,9 @@
 For this week's lab, we focues on learning about ChatServers and hosting them. 
 
 ## Part I
--   image: ![Alternative Text](/images/Webserver1.png)
--   image: ![Alternative Text](/images/Webserver2.png)
--   image: ![Alternative Text](/images/code1.png)
+-   image: ![Alternative Text](images/Webserver1.png)
+-   image: ![Alternative Text](images/Webserver2.png)
+-   image: ![Alternative Text](images/code1.png)
 
 
 ---
@@ -52,10 +52,10 @@ When viewing messages, it constructs a response string from the current contents
 ## Part II
 
   #### `ls` with the absolute path to the private key for your SSH key for logging into ieng6
- ![Alternative Text](/images/ls2.png)
+ ![Alternative Text](images/ls2.png)
 
 #### On the command line of the ieng6 machine, run `ls` with the absolute path to the public key for your SSH key for logging into ieng6
-![Alternative Text](/images/ls1.png)
+![Alternative Text](images/ls1.png)
 ---
 ## Part III: Things I learned in weeks 2 and 3
 
