@@ -4,4 +4,4 @@ Hello CSE15 World
 
 [Lab Report 2](labReport2/FisherJon_Report2.md)
 
-[Lab Report 3](labReport2/FisherJon_Report3.md)
+[Lab Report 3](labReport3/FisherJon_Report3.md)
